@@ -13,6 +13,6 @@ spec:
       valueFiles:
       - values-demo.yaml  
     path: charts/capi-aws
-    repoURL: https://github.com/kgamanji/cluster-api-helm-chart.git 
+    repoURL: https://github.com/Anil-YadavK8s/capi-aws
     targetRevision: HEAD
   syncPolicy: {}
