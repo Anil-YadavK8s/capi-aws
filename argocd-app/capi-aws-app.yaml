@@ -11,8 +11,8 @@ spec:
   source:
     helm:
       valueFiles:
-      - values-demo.yaml  
+      - values.yaml  
     path: charts/capi-aws
-    repoURL: https://github.com/Anil-YadavK8s/capi-aws
+    repoURL: https://github.com/Anil-YadavK8s/capi-aws.git
     targetRevision: HEAD
   syncPolicy: {}
