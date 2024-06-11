@@ -5,4 +5,4 @@ metadata:
   namespace: default
 spec:
   region: eu-north-1
-  sshKeyName: default
+  sshKeyName: ec2-kp
